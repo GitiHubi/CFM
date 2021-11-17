@@ -4,9 +4,9 @@ Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Note
 
 Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
 
-Wir wünschen Ihnen viel Spaß bei der **Forensischen Datenanalyse**!
+Wir wünschen Ihnen viel Freude bei Ihrer **Forensischen Datenanalyse**!
 
-![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
+![Course Banner](https://github.com/GitiHubi/CFM/blob/master/banner.png)
 
 ## Jupyter Lab Notebooks
 
