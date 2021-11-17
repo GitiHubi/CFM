@@ -22,7 +22,7 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
 
-#### [Option 1] Binder Cloud Umgebung
+#### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main))
 
 Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten. Klicken Sie hierzu auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines Binder Notebook's einige Zeit in Anspruch nehmen kann. 
 
