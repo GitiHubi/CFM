@@ -28,7 +28,7 @@ Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten
 
 Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
-#### [Option 2] Google Colab Umgebung
+#### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main))
 
 In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
 
