@@ -1,14 +1,12 @@
 ## FS CFM Seminar - Forensische Datenanalysen
 
-Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die beiden Zertifikatsstudiengänge [Certified Audit Data Scientist (CADS)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-audit-data-scientist) und [Certified Fraud Manager (CFM)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager) und an der **Frankfurt School of Finance and Management** erstellt haben. 
+Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die beiden Zertifikatsstudiengänge [Certified Fraud Manager (CFM)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager) und [Certified Audit Data Scientist (CADS)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-audit-data-scientist) an der **Frankfurt School of Finance and Management** erstellt haben. 
 
-Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse Python-Bibliotheken, wie beispielsweise **NumPy**, **Pandas**, **Matplotlib** und **PyTorch**. 
+Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib** oder **PyTorch** Bibliothek. 
 
 Wir wünschen Ihnen viel Spaß bei der **Forensischen Datenanalyse**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
-
-Weitere Details zu Inhalt und Struktur des Zertifikatsstudiengangs **Certified Fraud Manager (CFM)** finden Sie unter dem nachfolgendem Link zu finden [Link](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager). Das Programm umfasst und u.a. die Veranstaltung das vorliegende Seminar zu [Forensischen Datenanalysen](https://execed.frankfurt-school.de/home/individuals/seminar~000000089904CS~~)
 
 ## Jupyter Lab Notebooks
 
@@ -18,15 +16,11 @@ We created the following lab Jupyter Notebooks:
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|:--------:|
 |  00 | Prerequisite | Jupyter Test Notebook and Python 101                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseACA/master?filepath=labP1%2Faca_labP1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-
 
-Please note, that the creation of the distinct notebooks is currently work in progress, so please expect minor bugs as well as some rough edges ;)
+Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
-## Getting Started
+## Wie werden die Notebooks ausgeführt?
 
-Install dependencies via `pip install -r requirements.txt`.
-
-## How To Run the Lab Notebooks
-
-You can run the lab Notebooks in the cloud using either [binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/), or locally on your computer. 
+Sie können die Jupyter Notebooks entweder in der Cloud mit [binder] (https://mybinder.org/) oder [Google Colab] (https://colab.research.google.com/) oder lokal auf Ihrem Computer ausführen. 
 
 #### Binder
 
