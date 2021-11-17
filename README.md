@@ -1,12 +1,14 @@
 ## FS CFM Seminar - Forensische Datenanalysen
 
-Das **Forensische Datenanalysen** Repository besteht aus eine Reihe von Jupyter Notebooks, die wir für den **Certified Fraud Manager (CFM)** Zertifikatsstudiengang an der Frankfurt School of Finance und Management erstellt haben. Der Inhalt der Notebooks basiert auf der Programmiersprache Python und verwendet populäre Python-Bibliotheken, wie beispielsweise **NumPy**, **Pandas**, **Matplotlib** und **PyTorch**. 
+Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die beiden Zertifikatsstudiengänge [Certified Audit Data Scientist (CADS)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-audit-data-scientist) und [Certified Fraud Manager (CFM)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager) und an der **Frankfurt School of Finance and Management** erstellt haben. 
+
+Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse Python-Bibliotheken, wie beispielsweise **NumPy**, **Pandas**, **Matplotlib** und **PyTorch**. 
 
 Wir wünschen Ihnen viel Spaß bei der **Forensischen Datenanalyse**!
 
 ![Course Banner](https://github.com/GitiHubi/courseACA/blob/master/banner.png)
 
-Weitere Details zu Inhalt und Struktur des Zertifikatsstudiengangs **Certified Fraud Manager (CFM)** finden Sie unter dem nachfolgendem Link zu finden [Link](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager). Das Programm wird von den Lehrstühlen für [Interne Kontrolle & Interne Revision](https://aca.unisg.ch/en/arbeitsgebiete/ruud/team) und [Künstliche Intelligenz & Maschinelles Lernen](https://ics.unisg.ch/chair-aiml-borth/) der Universität St.Gallen (HSG) durchgeführt.
+Weitere Details zu Inhalt und Struktur des Zertifikatsstudiengangs **Certified Fraud Manager (CFM)** finden Sie unter dem nachfolgendem Link zu finden [Link](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager). Das Programm umfasst und u.a. die Veranstaltung das vorliegende Seminar zu [Forensischen Datenanalysen](https://execed.frankfurt-school.de/home/individuals/seminar~000000089904CS~~)
 
 ## Jupyter Lab Notebooks
 
