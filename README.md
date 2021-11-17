@@ -20,7 +20,7 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 ## Wie werden die Notebooks ausgeführt?
 
-Sie können die Jupyter Notebooks entweder in der Cloud mit [binder] (https://mybinder.org/) oder [Google Colab] (https://colab.research.google.com/) oder lokal auf Ihrem Computer ausführen. 
+Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über die Python Installation Ihres Computers ausführen.
 
 #### [Option 1] Binder Cloud
 
