@@ -24,12 +24,15 @@ Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://my
 
 #### [Option 1] Binder Cloud Umgebung
 
-Dies ist der einfachste Weg, ein Notebook in Ihrem Webbrowser zu starten: Klicken Sie einfach auf das Binder-Badge neben den Notebooks unten und los geht's. Binder ist ein Dienst, mit dem Sie Jupyter-Notebooks kostenlos in der Cloud betreiben können. Es ist keine Registrierung und keine Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch auf Ihrem Computer speichern).
-auf Ihrem Computer speichern). Außerdem kann das Starten eines binder Notebook kann einige Zeit in Anspruch nehmen. Weitere Informationen finden Sie in der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html).
+Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten: Klicken Sie einfach auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines binder Notebook einige Zeit in Anspruch nehmen kann. 
+
+Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
 #### [Option 2] Google Colab Umgebung
 
-Ähnlich wie bei Binder müssen Sie nur auf das Colab-Badge neben den Notizbüchern unten klicken. Alles, was Sie brauchen, ist ein Google-Login (z. B. Ihre Anmeldedaten für Google Mail) und Sie können diesen Dienst kostenlos nutzen. Zwei Vorteile von Colab sind, dass Sie (1) Ihre Notebooks direkt in Ihrem Google Drive speichern und Daten von dort lesen können, und (2) Google stellt Ihnen einige begrenzte GPU-Funktionen kostenlos zur Verfügung. Weitere Informationen finden Sie in der [Colab-Dokumentation](https://colab.research.google.com).
+Ähnlich wie bei Binder müssen Sie nur auf das Colab-Badge neben den Notizbüchern unten klicken. Alles, was Sie brauchen, ist ein Google-Login (z. B. Ihre Anmeldedaten für Google Mail) und Sie können diesen Dienst kostenlos nutzen. Zwei Vorteile von Colab sind, dass (1) Notebooks direkt in Google Drive gespeichert und Daten von dort gelesen werden können, und (2) einige begrenzte GPU-Funktionen dort kostenlos zur Verfügung stehen. 
+
+Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
 
 #### [Option 3] Lokale Python Umgebung
 
