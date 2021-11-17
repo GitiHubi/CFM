@@ -1,6 +1,6 @@
 ## Frankfurt School Seminar - Forensische Datenanalysen
 
-Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die beiden Zertifikatsstudiengänge [Certified Fraud Manager (CFM)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager) und [Certified Audit Data Scientist (CADS)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-audit-data-scientist) an der **Frankfurt School of Finance and Management** erstellt haben. 
+Das **Forensische Datenanalysen** Repository umfasst eine Reihe von Jupyter Notebooks, die wir für die beiden Zertifikatsstudiengänge [Certified Fraud Manager (CFM)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-fraud-manager) und [Certified Audit Data Scientist (CADS)](https://execed.frankfurt-school.de/home/individuals/compliance-forensics-audit/zertifikatsstudiengang-certified-audit-data-scientist) an der [Frankfurt School of Finance and Management](https://www.frankfurt-school.de/) erstellt haben. 
 
 Die Inhalte der Notebooks basieren auf der Programmiersprache **Python** und verwendet diverse zusätzliche Python-Bibliotheken, wie beispielsweise die **NumPy**, **Pandas**, **Matplotlib**, **Seaborn** oder **PyTorch** Bibliothek. 
 
@@ -20,7 +20,7 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 ## Wie werden die Notebooks ausgeführt?
 
-Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über die Python Installation Ihres Computers ausführen.
+Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
 
 #### [Option 1] Binder Cloud
 
