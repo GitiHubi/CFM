@@ -24,20 +24,19 @@ Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://my
 
 #### [Option 1] Binder Cloud Umgebung
 
-Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten: Klicken Sie einfach auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines binder Notebook einige Zeit in Anspruch nehmen kann. 
+Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten. Klicken Sie hierzu auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines binder Notebook einige Zeit in Anspruch nehmen kann. 
 
 Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
 #### [Option 2] Google Colab Umgebung
 
-Ähnlich wie bei Binder müssen Sie nur auf das Colab-Badge neben den Notizbüchern unten klicken. Alles, was Sie brauchen, ist ein Google-Login (z. B. Ihre Anmeldedaten für Google Mail) und Sie können diesen Dienst kostenlos nutzen. Zwei Vorteile von Colab sind, dass (1) Notebooks direkt in Google Drive gespeichert und Daten von dort gelesen werden können, und (2) einige begrenzte GPU-Funktionen dort kostenlos zur Verfügung stehen. 
+In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötien Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenlos zur Verfügung. 
 
 Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
 
 #### [Option 3] Lokale Python Umgebung
 
-Wenn Sie Notebooks lieber lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden,
-empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
+Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
 [detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
 
 Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. 
