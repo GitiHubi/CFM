@@ -22,16 +22,16 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 Sie können die Jupyter Notebooks entweder in der Cloud mit [binder] (https://mybinder.org/) oder [Google Colab] (https://colab.research.google.com/) oder lokal auf Ihrem Computer ausführen. 
 
-#### Binder Cloud
+#### [Option 1] Binder Cloud
 
 Dies ist der einfachste Weg, ein Notebook in Ihrem Webbrowser zu starten: Klicken Sie einfach auf das Binder-Badge neben den Notebooks unten und los geht's. Binder ist ein Dienst, mit dem Sie Jupyter-Notebooks kostenlos in der Cloud betreiben können. Es ist keine Registrierung und keine Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch auf Ihrem Computer speichern).
 auf Ihrem Computer speichern). Außerdem kann das Starten eines binder Notebook kann einige Zeit in Anspruch nehmen. Weitere Informationen finden Sie in der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html).
 
-#### Google Colab
+#### [Option 2] Google Colab
 
 Ähnlich wie bei Binder müssen Sie nur auf das Colab-Badge neben den Notizbüchern unten klicken. Alles, was Sie brauchen, ist ein Google-Login (z. B. Ihre Anmeldedaten für Google Mail) und Sie können diesen Dienst kostenlos nutzen. Zwei Vorteile von Colab sind, dass Sie (1) Ihre Notebooks direkt in Ihrem Google Drive speichern und Daten von dort lesen können, und (2) Google stellt Ihnen einige begrenzte GPU-Funktionen kostenlos zur Verfügung. Weitere Informationen finden Sie in der [Colab-Dokumentation](https://colab.research.google.com).
 
-#### Local Python Installation
+#### [Option 3] Lokales Python
 
 Wenn Sie Notebooks lieber lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden,
 empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
