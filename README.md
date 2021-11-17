@@ -36,7 +36,9 @@ Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.resear
 
 #### [Option 3] Lokale Python Umgebung
 
-Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
+Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. 
+
+Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
 [detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
 
 Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. 
