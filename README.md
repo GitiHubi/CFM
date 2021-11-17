@@ -12,9 +12,9 @@ Wir wünschen Ihnen viel Freude bei Ihrer **Forensischen Datenanalyse**!
 
 Nachfolgend finden Sie unsere aktuellen Notebooks: 
 
-| Lab | Datum        |Thema                                                              | Binder Launcher(s) | Colab Launcher(s) |
-|:---:|:------------:|----------------------------------------------------------------------|:--------:|:--------:|
-|  00 | Vorbereitung | Jupyter Test Notebook und Python 101                                 | [![Binder](https://mybinder.org/badge_logo.svg)]() |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_00/test_notebook_environment.ipynb)|
+| Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
+|:---:|:------------:|-------------------------------------------------------|:--------:|:--------:|
+|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)]() |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_00/test_notebook_environment.ipynb)|
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
