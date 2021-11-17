@@ -14,7 +14,7 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 
 | Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
 |:---:|:------------:|-------------------------------------------------------|:--------:|:--------:|
-|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_00%2F/lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_00/lab_00.ipynb)|
+|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_00%2F/lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_00/lab_00.ipynb)| |
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
