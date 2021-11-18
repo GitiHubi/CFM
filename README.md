@@ -41,9 +41,7 @@ Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist e
 Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
 [detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
 
-Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. 
-
-Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
+Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
 
 ## Fragen oder Anregungen?
 
