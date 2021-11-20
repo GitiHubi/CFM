@@ -14,7 +14,7 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 
 | Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
 |:---:|:------------:|-------------------------------------------------------|:--------:|:--------:|
-|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)]() |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabAIML/blob/main/lab_00/test_notebook_environment.ipynb)|
+|  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_00%2F/lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_00/lab_00.ipynb)|
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
@@ -22,24 +22,26 @@ Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwi
 
 Sie können die Jupyter Notebooks entweder in der Cloud über Binder (https://mybinder.org/) bzw. Google Colab (https://colab.research.google.com/) oder lokal über eine Python Installation Ihres Computers ausführen.
 
-#### [Option 1] Binder Cloud
+#### [Option 1] Binder Cloud Umgebung ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main))
 
-Dies ist der einfachste Weg, ein Notebook in Ihrem Webbrowser zu starten: Klicken Sie einfach auf das Binder-Badge neben den Notebooks unten und los geht's. Binder ist ein Dienst, mit dem Sie Jupyter-Notebooks kostenlos in der Cloud betreiben können. Es ist keine Registrierung und keine Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch auf Ihrem Computer speichern).
-auf Ihrem Computer speichern). Außerdem kann das Starten eines binder Notebook kann einige Zeit in Anspruch nehmen. Weitere Informationen finden Sie in der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html).
+Dies ist der einfachste Weg, ein Jupyter Notebook in Ihrem Webbrowser zu starten. Klicken Sie hierzu auf den Binder-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Binder Cloud bereitgestellt. Hierzu ist keine Registrierung oder Anmeldung erforderlich. Denken Sie jedoch daran, dass Sie keine Daten oder Ihre Notebook-Datei in der Cloud speichern können (Sie können sie jedoch jederzeit lokal auf Ihrem Computer speichern). Bitte beachten Sie, dass das Starten eines Binder Notebook's einige Zeit in Anspruch nehmen kann. 
 
-#### [Option 2] Google Colab
+Weitere Informationen können Sie der [Binder-Dokumentation](https://mybinder.readthedocs.io/en/latest/index.html) entnehmen.
 
-Ähnlich wie bei Binder müssen Sie nur auf das Colab-Badge neben den Notizbüchern unten klicken. Alles, was Sie brauchen, ist ein Google-Login (z. B. Ihre Anmeldedaten für Google Mail) und Sie können diesen Dienst kostenlos nutzen. Zwei Vorteile von Colab sind, dass Sie (1) Ihre Notebooks direkt in Ihrem Google Drive speichern und Daten von dort lesen können, und (2) Google stellt Ihnen einige begrenzte GPU-Funktionen kostenlos zur Verfügung. Weitere Informationen finden Sie in der [Colab-Dokumentation](https://colab.research.google.com).
+#### [Option 2] Google Colab Umgebung ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main))
 
-#### [Option 3] Lokales Python
+In Analogie zu Binder lassen sich auch Colab Notebooks starten. Klicken Sie hierzu auf den Colab-Badge des Notebooks und eine entsprechende Notebook Umgebung wird in der Google Cloud bereitgestellt. Hierzu benötigen Sie jedoch einen Google Account (z.B. Ihre Anmeldedaten für Google Mail). Nach erfolgreicher Anmeldung können Sie auch Colab kostenfrei nutzen. Colab bietet im Vergleich zu Binder die nachfolgenden beiden Vorteile: (1) Notebooks können direkt in Google Drive gespeichert und von dort gelesen werden; (2) Colab stellt schnelle Rechenressourcen z.B. GPU's kostenfrei zur Verfügung.
 
-Wenn Sie Notebooks lieber lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig Python zu installieren. Wenn Sie sich für diese Option entscheiden,
-empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält. Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
+Weitere Informationen können Sie der [Colab-Dokumentation](https://colab.research.google.com) entnehmen.
+
+#### [Option 3] Lokale Python Umgebung
+
+Wenn Sie die Notebooks gerne lokal auf Ihrem Computer ausführen möchten, ist es zunächst notwendig, Python zu installieren. Wenn Sie sich für diese Option entscheiden, empfehlen wir die Installation von [Anaconda Python](https://www.anaconda.com/products/individual), einem Paket, das die neueste Version von Python mit den gängigsten Bibliotheken für Data Science und maschinelles Lernen enthält.
+
+Anbei können Sie eine Anaconda [Installationsanleitung](https://www.anaconda.com/products/individual#Downloads) für verschiedene Betriebssystem sowie einige 
 [detaillierte Installationsanleitungen](https://docs.anaconda.com/anaconda/install/) finden. 
 
-Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. 
-
-Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
+Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Website herunterladen, oder einfach das gesamte Repository auf Ihren Computer klonen. Wenn Sie Hilfe bei der Ausführung von Python und/oder Jupyter Notebooks benötigen, **zögern Sie bitte nicht, uns zu kontaktieren** (siehe unten)!
 
 ## Fragen oder Anregungen?
 
