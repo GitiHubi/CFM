@@ -15,7 +15,8 @@ Nachfolgend finden Sie unsere aktuellen Notebooks:
 | Lab | Datum        |Thema                                                  | Binder Launcher(s) | Colab Launcher(s) |
 |:---:|:------------:|-------------------------------------------------------|:--------:|:--------:|
 |  00 | Vorbereitung | Jupyter Test Notebook                                 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_00%2F/lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_00/lab_00.ipynb)|
-|  01 | Vorbereitung | Jupyter Notebook und Python                           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_01%2F/lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_01/lab_01.ipynb)|
+|  01 | 04.12.2021 | Jupyter Notebook und Python                           | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_01%2F/lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_01/lab_01.ipynb)|
+|  02 | 04.12.2021 | Datenakquise, Aufbereitung und Validierung             | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/CFM/main?filepath=lab_02%2F/lab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/CFM/blob/main/lab_02/lab_02.ipynb)|
 
 Bitte beachten Sie, dass wie die einzelnen Notebooks kontinuierlich weiter entwickeln, rechnen Sie also bitte mit kleineren Fehlern und einigen Ecken und Kanten ;)
 
@@ -46,6 +47,6 @@ Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Web
 
 ## Fragen oder Anregungen?
 
-Bitte zögern Sie nicht, uns Ihre Fragen bzw. Anrefungen über die folgende Mailadresse zu senden:
+Bitte zögern Sie nicht, uns Ihre Fragen, Ideen bzw. Anregungen über die folgende Mailadresse zu senden:
 
 **marco (dot) schreyer (at) unisg (dot) ch**.
