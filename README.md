@@ -47,6 +47,6 @@ Um unsere Notebooks lokal auszuführen, können Sie diese einzeln von dieser Web
 
 ## Fragen oder Anregungen?
 
-Bitte zögern Sie nicht, uns Ihre Fragen bzw. Anrefungen über die folgende Mailadresse zu senden:
+Bitte zögern Sie nicht, uns Ihre Fragen, Ideen bzw. Anregungen über die folgende Mailadresse zu senden:
 
 **marco (dot) schreyer (at) unisg (dot) ch**.
